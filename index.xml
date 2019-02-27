@@ -17,7 +17,28 @@
       
       <guid>/about/</guid>
       <description>About me I am a Ph.D. student of Computer Science at Iowa State University of Science and Technology under supervision of Dr. Robyn Lutz in the Laboratory for Software Safety (LSS) .
-Research Interests My research interests include the principles and applications of Software Engineering, Software Safety, Software Product Line, and Machine Learning. I&amp;rsquo;m currently focusing on effective and efficient methods to detect and predict Feature Interaction in Software Product line.</description>
+Educational Background I have earned my M. S. degree in Software Engineering from Shiraz University in 2012 and my bachelor in Computer Engineering (Software) from Shahid Chamran University of Ahvaz (former Jondishapur).
+Certifications Eighth Summer School on Formal Techniques, May 19 - May 25, 2018, Menlo College, Atherton, CA</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/hobbies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hobbies/</guid>
+      <description> I keep record of books that I read and movies that I watched.
+Books  Sophie&amp;rsquo;s World: A Novel About the History of Philosophy FALL IS THE LAST SEASON OF THE YEAR by Nasim Marashi  Movies  Bohemian Rhapsody (2018) Mary Queen of Scots (2018)  Series  True Detective (2019) The Handmaid&amp;rsquo;s Tale(2018)   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Research Interests My research interests include the principles and applications of Software Engineering, Software Safety, Software Product Line, and Machine Learning. I&amp;rsquo;m currently focusing on effective and efficient methods to detect and predict Feature Interaction in Software Product line.
+Publications S. Khoshmanesh and R. R. Lutz, &amp;ldquo;The Role of Similarity in Detecting Feature Interaction in Software Product Lines,&amp;rdquo; 2018 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), Memphis, TN, USA, 2018, pp.</description>
     </item>
     
   </channel>
